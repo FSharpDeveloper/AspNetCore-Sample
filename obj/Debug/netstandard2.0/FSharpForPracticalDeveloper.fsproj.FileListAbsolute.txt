@@ -1,0 +1,8 @@
+c:\Users\MouadCherkaoui\demos\FSharpForPracticalDeveloper\bin\Debug\netstandard2.0\FSharpForPracticalDeveloper.deps.json
+c:\Users\MouadCherkaoui\demos\FSharpForPracticalDeveloper\bin\Debug\netstandard2.0\FSharpForPracticalDeveloper.runtimeconfig.json
+c:\Users\MouadCherkaoui\demos\FSharpForPracticalDeveloper\bin\Debug\netstandard2.0\FSharpForPracticalDeveloper.runtimeconfig.dev.json
+C:\Users\MouadCherkaoui\demos\FSharpForPracticalDeveloper\bin\Debug\netstandard2.0\appSettings.json
+C:\Users\MouadCherkaoui\demos\FSharpForPracticalDeveloper\bin\Debug\netstandard2.0\FSharpForPracticalDeveloper.dll
+C:\Users\MouadCherkaoui\demos\FSharpForPracticalDeveloper\bin\Debug\netstandard2.0\FSharpForPracticalDeveloper.pdb
+C:\Users\MouadCherkaoui\demos\FSharpForPracticalDeveloper\obj\Debug\netstandard2.0\FSharpForPracticalDeveloper.dll
+C:\Users\MouadCherkaoui\demos\FSharpForPracticalDeveloper\obj\Debug\netstandard2.0\FSharpForPracticalDeveloper.pdb

@@ -1,0 +1,8 @@
+c:\Users\MouadCherkaoui\demos\FSharpForPracticalDeveloper\bin\Debug\netcoreapp1.1\FSharpForPracticalDeveloper.deps.json
+c:\Users\MouadCherkaoui\demos\FSharpForPracticalDeveloper\bin\Debug\netcoreapp1.1\FSharpForPracticalDeveloper.dll
+c:\Users\MouadCherkaoui\demos\FSharpForPracticalDeveloper\bin\Debug\netcoreapp1.1\FSharpForPracticalDeveloper.pdb
+c:\Users\MouadCherkaoui\demos\FSharpForPracticalDeveloper\obj\Debug\netcoreapp1.1\FSharpForPracticalDeveloper.dll
+c:\Users\MouadCherkaoui\demos\FSharpForPracticalDeveloper\obj\Debug\netcoreapp1.1\FSharpForPracticalDeveloper.pdb
+c:\Users\MouadCherkaoui\demos\FSharpForPracticalDeveloper\bin\Debug\netcoreapp1.1\FSharpForPracticalDeveloper.runtimeconfig.json
+c:\Users\MouadCherkaoui\demos\FSharpForPracticalDeveloper\bin\Debug\netcoreapp1.1\FSharpForPracticalDeveloper.runtimeconfig.dev.json
+c:\Users\MouadCherkaoui\demos\FSharpForPracticalDeveloper\bin\Debug\netcoreapp1.1\appSettings.json
